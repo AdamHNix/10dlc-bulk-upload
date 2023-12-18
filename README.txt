@@ -14,6 +14,8 @@ This script is designed to automate the process of registering A2P (Application-
 
 5. `attachNumbers.js`: This script is used to attach Twilio phone numbers to A2P campaigns. It imports functions from `Functions.js`.
 
+6. `update.js`: This script is used to update customer profiles, trust hub profiles and brands. Make sure to run "rerun.js" after this to check the brand status and move on to campaign registration.
+
 ## Getting Started
 
 1. Ensure you have Node.js installed on your system.
